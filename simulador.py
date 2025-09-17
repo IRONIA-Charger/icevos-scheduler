@@ -156,9 +156,6 @@ def main():
     except FileNotFoundError:
         print("Erro: O arquivo 'processos.txt' não foi encontrado. Verifique se ele está na mesma pasta do seu código.")
         return
-    except FileNotFoundError:
-        print("Erro: O arquivo 'processos.txt' não foi encontrado")
-        return
     while (not s.lista_alta.esta_vazia() or
            not s.lista_media.esta_vazia() or
            not s.lista_baixa.esta_vazia() or

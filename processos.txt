@@ -1,0 +1,6 @@
+1,1,Chrome,5
+2,2,Spotify,4
+3,1,VSCode,6,DISCO
+4,3,Excel,3
+5,1,Terminal,2
+6,2,PDF,3

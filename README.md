@@ -52,7 +52,7 @@ Instruções:
 
 Clone este repositório para o seu ambiente local: git clone https://github.com/IRONIA-Charger/icevos-scheduler.git 
 
-Navegue até a pasta do projeto: cd escalonador_projeto
+Navegue até a pasta do projeto: cd icevos-scheduler
 
 Execute o arquivo principal a partir do terminal: python simulador.py 
 
